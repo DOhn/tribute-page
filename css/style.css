@@ -1,0 +1,27 @@
+body {
+	background-color: #333;
+	margin-top: 50px;
+}
+
+img {
+	border-radius: 30px;
+}
+
+.container-fluid {
+	background-color: #eee;
+}
+
+.display-2 {
+	color: #222;
+	font-family: Impact;
+}
+
+h2 {
+	font-family: Impact;
+	color: #333;
+}
+
+h3, p {
+	font-family: Verdana;
+	color: #444;
+}
